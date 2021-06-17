@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![ss-inter1908's GitHub stats](https://github-readme-stats.vercel.app/api?username=ss-inter1908&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ss-inter1908&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ss-inter1908&theme=tokyonight)](https://git.io/streak-stats)
+
 <!--
 **ss-inter1908/ss-inter1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
